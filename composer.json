@@ -29,6 +29,8 @@
     "roave/security-advisories"    : "dev-master",
     "sllh/composer-versions-check" : "^2.0"
   },
+  "suggest": {
+  },
   "config" : {
     "php" : "7.0.0"
   }

@@ -11,7 +11,7 @@
  * Plugin Name:       Blue Blaze Debug Log File
  * Plugin URI:        https://github.com/blueblazeassociates/blueblaze-debug-log-file
  * Description:       Allows for a custom location for WordPress's debug.log file.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Blue Blaze Associates
  * Author URI:        http://www.blueblazeassociates.com
  * License:           GPL v2 or later

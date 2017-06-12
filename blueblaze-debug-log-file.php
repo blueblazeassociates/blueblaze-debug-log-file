@@ -19,7 +19,7 @@
  * GitHub Plugin URI: https://github.com/blueblazeassociates/blueblaze-debug-log-file
  * GitHub Branch:     master
  * Requires WP:       4.7
- * Requires PHP:      7.0
+ * Requires PHP:      5.6
  */
 
 /*
